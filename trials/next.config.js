@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env:{
-    MONGO_URI:"mongodb+srv://Anwar:Anwar1997@cluster0.mnqdo.mongodb.net/?retryWrites=true&w=majority"
+    MONGO_URI:"mongodb+srv://Anwar:Anwar1997@cluster0.mnqdo.mongodb.net/nextApp?retryWrites=true&w=majority"
   }
 }
 
